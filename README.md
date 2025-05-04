@@ -15,7 +15,7 @@
 I am a French developper who love programming projects about some games like [Minecraft](https://www.minecraft.net/) 
 or [Mario Kart Wii](https://fr.wikipedia.org/wiki/Mario_Kart_Wii), but also some useful stuff here and there.
 
-My biggest project yet is my mod [Mario Kart Wii Atlas](https://www.faraphel.fr/atlas/) that add thousands of tracks to 
+My biggest project yet is my mod [Mario Kart Wii Atlas](https://atlas.faraphel.fr/) that add thousands of tracks to 
 the base Mario Kart Wii game based on the community votes, combined with its installer allowing for a big customisability.
 
 Most of my projects here are mirror of my own forgejo instance. You can find the original ones here : 
